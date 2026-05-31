@@ -1,7 +1,7 @@
 ML - insurance cost analysis 
 
 this is my first ml practice project where i explore data analysis, feature selection, and preprocessing techniques using an insurance dataset.
-tis project explores how user attributes like age, bmi, smoking status, and region influence insurance charges through exploratory data analysis (EDA) and chi-square based feature selection
+This project explores how user attributes like age, bmi, smoking status, and region influence insurance charges through exploratory data analysis (EDA) and chi-square based feature selection
 
 
 
