@@ -29,8 +29,8 @@ project workflow:
 - performed data cleaning and preprocessing  
 - conducted exploratory data analysis (EDA)  
 - visualized relationships between key features  
-- applied Chi-Square test for feature selection  
-- converted notebook into a clean Python script  
+- applied chi-square test for feature selection  
+- converted notebook into a clean python script  
 
 key insights:
 
